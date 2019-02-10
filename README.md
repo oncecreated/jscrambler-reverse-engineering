@@ -8,7 +8,7 @@ for(var i = 0; i < elements.length; i++) {
 }
 console.log('world');
 ```
-
+tranform to:
 
 ```js
 var l9kk = 56;
