@@ -1,5 +1,4 @@
 # Control Flow Flattening
-Transform from:
 
 ```js
 console.log('hello');
@@ -10,7 +9,6 @@ for(var i = 0; i < elements.length; i++) {
 console.log('world');
 ```
 
-To:
 
 ```js
 var l9kk = 56;
