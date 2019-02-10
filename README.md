@@ -80,6 +80,7 @@ K9TT.J7E = function () {
 // resolver function, may be multiple
 K9TT.RY5 = function () { return K9TT.J7E.L8.apply(K9TT.J7E.L8, arguments); };
 
+// constants, used for simple math with resolver
 var H9AA = "9780";
 var J990 = "9780";
 var FD0U = "-9781";
